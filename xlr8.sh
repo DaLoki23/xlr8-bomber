@@ -2,12 +2,12 @@
 
 #------------------------------------------------------#
 #                   XLR8 BOMBER 3.0 !                  #
-#               Coded by Anubhav Kashyap               #
+#               Coded by DaLoki23.                     #
 #~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ #
-#      Github     :   github.com/anubhavanonymous      #
-#     Instagram  :  instagram.com/anubhavanonymous     #
+#      Github     :   github.com/Daloki23              #
+#      Discord    :   Da Loki#4380                     #
 #------------------------------------------------------#
-#               Dont try to Steal it Bitch             #
+#               Dont try to Steal it Kid               #
 #------------------------------------------------------#
 
 # Colors FG
@@ -47,7 +47,7 @@ echo "          $WHITE╭╯╭╮╰┫╰━╯┃┃┃╰┫╰━╯┃ ┃
 echo "          $WHITE╰━╯╰━┻━━━┻╯╰━┻━━━╯ ╰━━━┻━━━┻╯╰╯╰┻━━━┻━━━┻╯╰━╯"
 echo ""
 sleep 1
-echo "                                    $WHITE Author:$RED Anubhav Kashyap"
+echo "                                    $WHITE Author:$RED Da Loki"
 echo ""
 
 }
@@ -179,18 +179,17 @@ echo -e """
          \e[1;91m║\e[1;97m██████\e[1;91m║\e[1;97m█████████\e[1;91m║
 """ | pv -qL 300
 sleep 1.2
-echo -e "                                  This is\e[1;0m 𝗔𝗻𝘂𝗯𝗵𝗮𝘃 𝗞𝗮𝘀𝗵𝘆𝗮𝗽" | pv -qL 150
-echo "                                    aka anubhavanonymous !" | pv -qL 150
+echo -e "                                  This is\e[1;0m DaLoki" | pv -qL 150
+echo "                                    aka Founder Of Vexify !" | pv -qL 150
 echo ""
 echo -e "     $GREEN  Ethical Hacker$WHITE |$GREEN CyberSec Enthusiast$WHITE |$GREEN Programmer" | pv -qL 10
 echo ""
-printf "\e[0m\e[92m                 Group Admin at$WHITE DeepWeb Shadows\e[0m\n" | pv -qL 12
+printf "\e[0m\e[92m                 Founder Of$WHITE 5RinalShadow's\e[0m\n" | pv -qL 12
 echo ""
 echo "       $MAGENTA          My social handles are below !!" | pv -qL 10
 echo ""
-printf "\e[0m\e[92m          Github \e[0m\e[91m     :    \e[0m\e[96mgithub.com/anubhavanonymous\e[0m\n" | pv -qL 50
+printf "\e[0m\e[92m          Github \e[0m\e[91m     :    \e[0m\e[96mgithub.com/DaLoki23\e[0m\n" | pv -qL 50
 echo ""
-printf "\e[0m\e[92m         Instagram \e[0m\e[91m   :   \e[0m\e[96minstagram.com/anubhavanonymous\e[0m\n" | pv -qL 50
 echo ""
 echo -e "\e[1;91m                        Happy Hacking :)" | pv -qL 10
 sleep 7
@@ -330,7 +329,7 @@ then
 echo ""
 printf "   \e[92m[\e[91m~\e[92m] \e[0m\e[44mSuccess !!\e[0m\n"
 echo ""
-echo -e "   \e[92m[\e[91m~\e[92m]\e[93m Please be pateint, Msgs take some time to get delivered !!\e[93m"
+echo -e "   \e[92m[\e[91m~\e[92m]\e[93m Please be pateint, Msgs take some time to get delivered I am Working On This !!\e[93m"
 echo ""
 exit
 else
@@ -353,7 +352,7 @@ sleep 1
 DATE=$(date)
 echo "$WHITE✯ Started on $RED$DATE"
 echo "$WHITE------------------------------"
-printf "\e[1;33m⚡ This tool is only for Educational Purposes !!\e[0m\n"
+printf "\e[1;33m⚡ This tool is only for Educational Purposes Don't Use It Ilegally!!\e[0m\n"
 echo "------------------------------"
 echo ""
 sleep 1
