@@ -2,10 +2,10 @@
 
 #------------------------------------------------------#
 #                   XLR8 BOMBER 3.0 !                  #
-#               Coded by Anubhav Kashyap               #
+#               Coded by Salman Shaikh               #
 #~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ #
-#      Github     :   github.com/anubhavanonymous      #
-#     Instagram  :  instagram.com/anubhavanonymous     #
+#      Github     :   github.com/salmanshaih88      #
+#     Instagram  :  instagram.com/Sallu Shaikh     #
 #------------------------------------------------------#
 #               Dont try to Steal it Bitch             #
 #------------------------------------------------------#
